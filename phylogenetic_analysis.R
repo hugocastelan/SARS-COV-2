@@ -1,3 +1,6 @@
+#Author Simon Dellicur 
+#This script was used for introduction of SARS-CoV-2 in Mexico  
+
 library(diagram)
 library(lubridate)
 library(seraphim)
